@@ -4,7 +4,7 @@ import axios from "axios";
 const initialState = {
   isError: false,
   isAuthenticated: false,
-  token: null,
+  token: "AowhcxMxFzwjrUV7nHpBcahKasozheYUmL6izefZds6ibz1XlmY6TsOWRBeOXqJY",
   email: "azvyae@example.app",
   password: "example2048",
   data: {
